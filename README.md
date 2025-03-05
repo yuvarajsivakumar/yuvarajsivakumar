@@ -4,7 +4,7 @@
 - 🔭 I’m currently a student in **SRM Institute of Science and Technlogy**
 
 <h3 align="left">Connect with me:</h3>
-sivayuva9159@gmail.com
+<a href="mailto:sivayuva9159@gmail.com">sivayuva9159@gmail.com</a>
 <h3 align="left">[LinkedIn] (https://www.linkedin.com/in/yuvaraj-s-aaaa78220/)</h3>
 <p align="left">
 </p>
