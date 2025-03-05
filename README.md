@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:sivayuva9159@gmail.com">sivayuva9159@gmail.com</a>
-<h3 align="left">[LinkedIn] (https://www.linkedin.com/in/yuvaraj-s-aaaa78220/)</h3>
+<h3 align="left">LinkedIn: (https://www.linkedin.com/in/yuvaraj-s-aaaa78220/)</h3>
 <p align="left">
 </p>
 
