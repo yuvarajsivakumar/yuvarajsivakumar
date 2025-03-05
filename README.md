@@ -1,9 +1,10 @@
-<h1 align="center">Hey , I'm yuvaraj s</h1>
+<h1 align="center">Hey , I'm yuvaraj S</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently a student in **SRM Institute of Science and Technlogy**
 
 <h3 align="left">Connect with me:</h3>
+**sivayuva9159@gmail.com**
 <p align="left">
 </p>
 
