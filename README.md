@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm yuvaraj S</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently a student in **SRM Institute of Science and Technlogy**
+- 🔭 I’m currently a Btech AI student in **SRM Institute of Science and Technlogy**
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:sivayuva9159@gmail.com">sivayuva9159@gmail.com</a>
